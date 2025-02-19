@@ -25,4 +25,8 @@ Full size step version: https://github.com/MrKohESP/GAmP/blob/6eb4d379a9d827a5ec
 
 # 3D Models of the Enclosure
 Full size stl file bottom: https://github.com/MrKohESP/GAmP/blob/6eb4d379a9d827a5ec4db1e81b124d0b5fc4782c/GAmP%2BvX%2BBottom.stl)
+
 Full size stl file top: https://github.com/MrKohESP/GAmP/blob/6eb4d379a9d827a5ec4db1e81b124d0b5fc4782c/GAmP%2BvX%2BTop.stl)
+
+# Enclosure Production
+![Production Timeline](https://github.com/MrKohESP/GAmP/blob/578d3e1ba422d9222d90fe251d4de9fd1371d41c/Screenshot%202025-02-19%20131044.png)
