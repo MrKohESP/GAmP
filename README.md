@@ -21,9 +21,11 @@ Full size step version: https://github.com/MrKohESP/GAmP/blob/6eb4d379a9d827a5ec
 ![Production Timeline](https://github.com/MrKohESP/GAmP/blob/6eb4d379a9d827a5ec4db1e81b124d0b5fc4782c/Screenshot%202025-02-19%20131143.png)
 
 # Enclosure
-![Enclosure](https://github.com/MrKohESP/GAmP/blob/b7b0024211caa429c2010b25be4b586c6b930e61/IMG_4971.jpg)
 
+The enclosure is a custom designed 3D printed snap fit, vented, split case.
+![Enclosure](https://github.com/MrKohESP/GAmP/blob/1d8ae425c8e42637553fd9db300b304da8d80c0a/IMG_4970.jpg)
 # 3D Models of the Enclosure
+
 Full size stl file bottom: https://github.com/MrKohESP/GAmP/blob/6eb4d379a9d827a5ec4db1e81b124d0b5fc4782c/GAmP%2BvX%2BBottom.stl)
 
 Full size stl file top: https://github.com/MrKohESP/GAmP/blob/6eb4d379a9d827a5ec4db1e81b124d0b5fc4782c/GAmP%2BvX%2BTop.stl)
