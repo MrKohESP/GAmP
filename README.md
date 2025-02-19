@@ -65,8 +65,8 @@ Full size step version: https://github.com/MrKohESP/GAmP/blob/6eb4d379a9d827a5ec
 # Enclosure
 
 The enclosure is a custom designed SLA 3D printed snap-fit, vented, and split case.  Designed in OnShape an online 3D modeling site.  
-
-You can see the assembly and models here: https://cad.onshape.com/documents/f1fd810423af36052080a337/w/e044fea8778af83a679eb873/e/5cdc29b059e584418c251eba?renderMode=0&uiState=67b62f22d31edd59f9896b6c
+ 
+The complete assembly and models here: https://cad.onshape.com/documents/f1fd810423af36052080a337/w/e044fea8778af83a679eb873/e/5cdc29b059e584418c251eba?renderMode=0&uiState=67b62f22d31edd59f9896b6c
 
 ![Enclosure](https://github.com/MrKohESP/GAmP/blob/1d8ae425c8e42637553fd9db300b304da8d80c0a/IMG_4970.jpg)
 
